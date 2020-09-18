@@ -1,0 +1,46 @@
+.general{ float: left;
+          width: 130px;
+          
+
+}
+.employee{
+    border-style: solid;
+    border-radius: 20px;
+    overflow: auto
+    
+}
+
+ 
+
+}
+.title{
+    display: block
+}
+.department{
+    display: block
+}
+.email{
+    display: block
+}
+
+.eName{
+    display: block
+}
+.employee{
+    padding: 20
+}
+img{
+    width: 120px;
+    height: 130px
+    
+}
+
+.detail{
+    float: left;
+    width: 350px
+}
+
+.eName{
+    font-weight: bold
+}
+.title{font-weight: bold}
